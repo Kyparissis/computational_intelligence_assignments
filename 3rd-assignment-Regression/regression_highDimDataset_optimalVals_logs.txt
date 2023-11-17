@@ -1,0 +1,147 @@
+
+ANFIS info:
+	Number of nodes: 431
+	Number of linear parameters: 209
+	Number of nonlinear parameters: 380
+	Total number of parameters: 589
+	Number of training data pairs: 12758
+	Number of checking data pairs: 4252
+	Number of fuzzy rules: 19
+
+
+Start training ANFIS ...
+
+1 	 15.8333 	 16.4988
+2 	 15.5336 	 16.1073
+3 	 15.5329 	 16.2078
+4 	 15.4488 	 16.1137
+Step size increases to 0.011000 after epoch 5.
+5 	 15.4288 	 16.1267
+6 	 15.3604 	 16.0676
+7 	 15.3332 	 16.1029
+8 	 15.2732 	 15.9853
+Step size increases to 0.012100 after epoch 9.
+9 	 15.2369 	 16.085
+10 	 15.1809 	 15.9473
+11 	 15.1154 	 16.0391
+12 	 15.0793 	 15.9381
+Step size increases to 0.013310 after epoch 13.
+13 	 15.0132 	 15.9976
+14 	 14.9694 	 15.8583
+15 	 14.808 	 15.8151
+16 	 14.8099 	 15.6884
+17 	 14.7289 	 15.8225
+18 	 14.7407 	 15.6742
+Step size decreases to 0.011979 after epoch 19.
+19 	 14.6619 	 15.6247
+20 	 14.6548 	 15.5157
+21 	 14.6831 	 15.8714
+22 	 14.6398 	 15.5838
+23 	 14.5836 	 15.5777
+24 	 14.6133 	 15.5713
+25 	 14.5417 	 15.5388
+26 	 14.5755 	 15.5283
+Step size decreases to 0.010781 after epoch 27.
+27 	 14.5076 	 15.4463
+28 	 14.571 	 15.6197
+29 	 14.5169 	 15.4742
+30 	 14.4631 	 15.4032
+31 	 14.4743 	 15.4144
+32 	 14.4741 	 15.4585
+33 	 14.4575 	 15.416
+34 	 14.4092 	 15.3322
+35 	 14.4448 	 15.3307
+36 	 14.3846 	 15.3463
+37 	 14.4104 	 15.3036
+Step size decreases to 0.009703 after epoch 38.
+38 	 14.3618 	 15.3266
+39 	 14.3829 	 15.288
+40 	 14.3289 	 15.2861
+41 	 14.3514 	 15.2613
+Step size decreases to 0.008733 after epoch 42.
+42 	 14.3093 	 15.2679
+43 	 14.3276 	 15.2481
+44 	 14.2798 	 15.2403
+45 	 14.3011 	 15.2301
+Step size decreases to 0.007859 after epoch 46.
+46 	 14.2619 	 15.2212
+47 	 14.2786 	 15.2188
+48 	 14.2361 	 15.2033
+49 	 14.2539 	 15.2078
+Step size decreases to 0.007073 after epoch 50.
+50 	 14.2201 	 15.1888
+51 	 14.232 	 15.204
+52 	 14.1967 	 15.1833
+53 	 14.2053 	 15.213
+Step size decreases to 0.006366 after epoch 54.
+54 	 14.1771 	 15.1888
+55 	 14.1783 	 15.2079
+56 	 14.1546 	 15.1714
+57 	 14.1575 	 15.1823
+Step size decreases to 0.005730 after epoch 58.
+58 	 14.141 	 15.1505
+59 	 14.1387 	 15.1593
+60 	 14.1214 	 15.1293
+Step size increases to 0.006302 after epoch 61.
+61 	 14.1177 	 15.1359
+62 	 14.1058 	 15.1063
+63 	 14.1017 	 15.1143
+64 	 14.0885 	 15.0847
+Step size increases to 0.006933 after epoch 65.
+65 	 14.0797 	 15.093
+66 	 14.0729 	 15.0678
+67 	 14.0689 	 15.0841
+68 	 14.0592 	 15.0576
+Step size increases to 0.007626 after epoch 69.
+69 	 14.0506 	 15.0712
+70 	 14.0457 	 15.0462
+71 	 14.0421 	 15.0655
+72 	 14.0329 	 15.0372
+Step size increases to 0.008389 after epoch 73.
+73 	 14.0245 	 15.0535
+74 	 14.0207 	 15.0286
+75 	 14.0188 	 15.0475
+76 	 14.0094 	 15.0206
+Step size increases to 0.009227 after epoch 77.
+77 	 14.0024 	 15.0382
+78 	 13.9988 	 15.0137
+79 	 13.9975 	 15.0239
+80 	 13.9903 	 15.0042
+Step size increases to 0.010150 after epoch 81.
+81 	 13.9792 	 15.0275
+82 	 13.9822 	 14.986
+83 	 13.9769 	 15.0316
+84 	 13.9715 	 14.9735
+85 	 13.9608 	 15.0084
+Step size increases to 0.011165 after epoch 86.
+86 	 13.9574 	 14.9577
+87 	 13.9564 	 14.9954
+88 	 13.9479 	 14.9595
+89 	 13.943 	 14.9548
+Step size increases to 0.012282 after epoch 90.
+90 	 13.9306 	 14.9155
+91 	 13.9355 	 14.9555
+92 	 13.9254 	 14.9162
+93 	 13.9171 	 14.8986
+94 	 13.9078 	 14.8671
+95 	 13.9144 	 14.8955
+96 	 13.8899 	 14.8436
+97 	 13.8849 	 14.8336
+98 	 13.8774 	 14.8088
+Step size increases to 0.013510 after epoch 99.
+99 	 13.8669 	 14.8128
+100 	 13.8587 	 14.7772
+
+Designated epoch number reached. ANFIS training completed at epoch 100.
+
+Minimal training RMSE = 13.8587
+Minimal checking RMSE = 14.7772
+            Optimal Model
+            _____________
+
+    MSE         216.68   
+    RMSE         14.72   
+    NMSE       0.18801   
+    NDEI        0.4336   
+    R2         0.81199   
+
